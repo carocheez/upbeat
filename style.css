@@ -1,1 +1,8 @@
 // i have no idea how to use css lmao 
+
+body {
+    background: #FFD433;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+  }
