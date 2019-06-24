@@ -13,3 +13,7 @@ html, body {
 	font-family: 'Roboto' 
 
   }
+
+.navbar-brand {
+	font-family: 'Roboto', sans-serif;
+}
